@@ -20,3 +20,5 @@ TriangleShape наследник от AbstractShape - здесь данные
 Если же мы захотим создавать картинку, например PNG, то тогда нужно создать новый класс отображениея, например
 ImageRender
 и для каждой фигуры, создать CircleShapeImageRender, SquareShapeImageRender и т.п.
+
+Пример работы можно посмотреть здесь: http://placehiring.com/yell/task1/
